@@ -27,7 +27,7 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 
 ### 🎓 University project
 
-#### Databse 1
+#### Database 1
 
 - [Admin-WindowsForm](https://github.com/Elsha3er117/Admin-WindowsForms)
 
