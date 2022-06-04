@@ -23,6 +23,22 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 - Cloud computing
 - Machine Learning
 
+## 👨🏻‍💻 Projects I made
+
+### 🎓 University project
+
+#### Databse 1
+
+- [Admin-WindowsForm](https://github.com/Elsha3er117/Admin-WindowsForms)
+
+#### Web Technology
+
+- [FCAI LabTracker](https://github.com/Elsha3er117/FCAI_LabTracker-Login-Page)
+
+#### Data Structure
+
+- [Flip this Tree](https://github.com/Elsha3er117/Flipped-Tree)
+
 
 <!---
 Elsha3er117/Elsha3er117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
