@@ -25,9 +25,14 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 
 ## 👨🏻‍💻 Projects I made
 
+### 📚	Udacity Projects
+
+- [Weather journal app](https://github.com/Elsha3er117/Udacity_weather-journal-app)
+- [Landing page](https://github.com/Elsha3er117/Udacity_landing_page)
+
 ### 🎓 University project
 
-#### Database 1
+#### Intro to Database Systems
 
 - [Admin-WindowsForm](https://github.com/Elsha3er117/Admin-WindowsForms)
 
@@ -38,6 +43,9 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 #### Data Structure
 
 - [Flip this Tree](https://github.com/Elsha3er117/Flipped-Tree)
+- [BinaryInsertionSort-Performance](https://github.com/Elsha3er117/BinaryInsertionSort-Performance)
+- [PhoneDirectory_App](https://github.com/Elsha3er117/PhoneDirectory_App)
+- [StringOpreations-app](https://github.com/Elsha3er117/StringOpreations-app)
 
 
 <!---
