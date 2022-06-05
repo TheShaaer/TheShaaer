@@ -32,7 +32,7 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 
 ### 🎓 University project
 
-#### Intro to Database Systems
+#### Introduction to Database Systems
 
 - [Admin-WindowsForm](https://github.com/Elsha3er117/Admin-WindowsForms)
 
@@ -47,7 +47,9 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 - [PhoneDirectory_App](https://github.com/Elsha3er117/PhoneDirectory_App)
 - [StringOpreations-app](https://github.com/Elsha3er117/StringOpreations-app)
 
-
+#### Introduction to Networks
+- [TCP SocketPrograming](https://github.com/Elsha3er117/TCP-SocketPrograming)
+- [UDP SocketProgramming](https://github.com/Elsha3er117/UDP-SocketProgramming)
 <!---
 Elsha3er117/Elsha3er117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
