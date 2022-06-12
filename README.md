@@ -5,6 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@elsha3er117-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elsha3er117)](https://twitter.com/elsha3er117)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Elsha3er117.Elsha3er117)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Passionate+student+who+loves+exploring+new+grounds+and+ideas;%2C+a+front-end+web+developer%2C+a+UX+researcher+and+soft+skills+trainer)](https://git.io/typing-svg)
+
 Hey, it's me, Abdelrhman Mohamed. I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
 
 Passionate student who loves exploring new grounds and ideas, a front-end web developer, a UX researcher and soft skills trainer. I started programming since 2019, I started out with web developing specially Front-end , now I have experience with C++, Python and JavaScript. Also, I am constantly exploring UI/UX as well as other Web designing concepts. 
