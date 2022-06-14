@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@elsha3er117-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elsha3er117)](https://twitter.com/elsha3er117)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Elsha3er117.Elsha3er117)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=9000&vCenter=true&multiline=true&width=1000&height=100&lines=Passionate+student+who+loves+exploring+new+grounds+and+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art+too%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 
 Hey, it's me, Abdelrhman Mohamed. I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
 
