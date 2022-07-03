@@ -9,7 +9,7 @@
 [![Behance Badge](https://img.shields.io/badge/-AbdelrhmanMohamed-0057ff?style=flat-square&labelColor=0057ff&logo=behance&logoColor=white&link=https://www.behance.net/Abdelrhman_Mohmed)](https://www.behance.net/Abdelrhman_Mohmed)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Elsha3er117.Elsha3er117)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art+too%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 
 Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/abdelrhman-el-shaaer/). I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
 
