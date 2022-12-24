@@ -24,9 +24,9 @@ My eagerness to learn and see the whole world and meet spectacular people seems 
 - UI/UX Design [Figma](https://www.figma.com/)
 - Front-End Web Development 
 - IT Opreations
-- Software Testing
-- Cloud computing
-- Machine Learning
+- Software Engineering
+- Big Data
+- WordPress Theme Development 
 
 ## 👨🏻‍💻 Projects I made
 
