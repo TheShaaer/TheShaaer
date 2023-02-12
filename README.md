@@ -12,9 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/abdelrhman-el-shaaer/). I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
 
-Passionate student who loves exploring new technologies, a front-end web developer, a UX researcher and soft skills trainer. I have been programming since 2019, I started out with web developing specially Front-end , now I have experience with C++, Python and JavaScript. Also, I am constantly exploring UI/UX as well as other Web designing concepts. 
+As a passionate student with a love for exploring new technologies, I have built a strong foundation in web development with a focus on front-end design. I have been programming since 2019, starting out with web development and expanding my skills to include C++, Python, and JavaScript. My drive to continually improve and broaden my knowledge has also led me to delve into the exciting world of UI/UX design and web design.
 
-My eagerness to learn and see the whole world and meet spectacular people seems to be my ultimate strength!
+With a keen eye for detail and a desire to create seamless user experiences, I bring both technical expertise and a human-centered approach to all of my projects. My enthusiasm for learning and passion for making connections with others is a defining strength that drives my success.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elsha3er117&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsha3er117&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
