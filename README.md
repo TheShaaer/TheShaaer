@@ -12,9 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/abdelrhman-el-shaaer/). I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
 
-As a passionate student with a love for exploring new technologies, I have built a strong foundation in web development with a focus on front-end design. I have been programming since 2019, starting out with web development and expanding my skills to include C++, PHP, Python, and JavaScript. My drive to continually improve and broaden my knowledge has also led me to delve into the exciting world of UI/UX design and web design.
+I'm a freelance UI/UX designer and web developer with one year of experience, specializing in creating user-friendly digital experiences using languages such as C++, JavaScript, and PHP (Laravel), as well as front-end skills like HTML, CSS, Bootstrap, and WordPress. I'm also experienced in soft skills training, creative writing, and voiceover work.
 
-With a keen eye for detail and a desire to create seamless user experiences, I bring both technical expertise and a human-centered approach to all of my projects. My enthusiasm for learning and passion for making connections with others is a defining strength that drives my success.
+Outside of work, I'm passionate about volunteering and have contributed to projects with organizations such as IEEE CUSB, Alt-tab, TEDX, Google DSC, and Anwar Resala team. Let's connect and discuss how I can help bring your digital vision to life.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elsha3er117&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsha3er117&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
