@@ -19,14 +19,18 @@ Outside of work, I'm passionate about volunteering and have contributed to proje
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheShaaer&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShaaer&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## 🌱 I’m currently interested/learning in
+## 🌱 I’m currently interested
 
 - UI/UX Design [Figma](https://www.figma.com/)
-- Front-End Web Development 
-- IT Opreations
-- Software Engineering
+- Front-End Web Development
+- Data Visualization Using [Tableau](https://www.tableau.com/)
+- WordPress Theme Development
+- Back-End Using [Laravel](https://laravel.com/)
+
+## 🌱 I’m currently learning
+
 - Big Data
-- WordPress Theme Development 
+- Data Analytics
 
 ## 👨🏻‍💻 Projects I made
 
@@ -48,7 +52,7 @@ Outside of work, I'm passionate about volunteering and have contributed to proje
 - [Weather journal app](https://github.com/TheShaaer/Udacity_weather-journal-app)
 - [Landing page](https://github.com/TheShaaer/Udacity_landing_page)
 
-### 🎓 University project
+### 🎓 University projects
 
 #### Introduction to Database Systems
 
