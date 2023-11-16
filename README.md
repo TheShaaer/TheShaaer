@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelrhmanMohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/theshaaer/)](https://www.linkedin.com/in/theshaaer/)
 [![Twitter Badge](https://img.shields.io/badge/-@TheShaaer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheShaaer)](https://twitter.com/TheShaaer)
 [![Behance Badge](https://img.shields.io/badge/-AbdelrhmanMohamed-0057ff?style=flat-square&labelColor=0057ff&logo=behance&logoColor=white&link=https://www.behance.net/TheShaaer)](https://www.behance.net/TheShaaer)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheShaaer.TheShaaer)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheShaaer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/theshaaer/). I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
