@@ -10,9 +10,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheShaaer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
-Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/theshaaer/). I'm currently pursuing a bachelor degree in computers and AI at [Cairo University](https://cu.edu.eg/Home).
+Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/theshaaer/). I'm currently pursuing a bachelor degree in Information Systems at [Cairo University](https://cu.edu.eg/Home).
 
-I'm a freelance UI/UX designer and web developer with one year of experience, specializing in creating user-friendly digital experiences using languages such as C++, JavaScript, and PHP (Laravel), as well as front-end skills like HTML, CSS, Bootstrap, and WordPress. I'm also experienced in soft skills training, creative writing, and voiceover work.
+I'm a freelance UI/UX designer and web developer with 2 years of experience, specializing in creating user-friendly digital experiences using languages such as C++, JavaScript, and PHP (Laravel), as well as front-end skills like HTML, CSS, Bootstrap, and WordPress. I'm also experienced in soft skills training, creative writing, and voiceover work.
 
 Outside of work, I'm passionate about volunteering and have contributed to projects with organizations such as IEEE CUSB, Alt-tab, TEDX, Google DSC, and Anwar Resala team. Let's connect and discuss how I can help bring your digital vision to life.
 
