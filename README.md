@@ -16,10 +16,13 @@ I'm a freelance UI/UX designer and web developer with 2 years of experience, spe
 
 Outside of work, I'm passionate about volunteering and have contributed to projects with organizations such as IEEE CUSB, Alt-tab, TEDX, Google DSC, and Anwar Resala team. Let's connect and discuss how I can help bring your digital vision to life.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheShaaer&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheShaaer&show_icons=true&locale=en" alt="TheShaaer" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShaaer&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## 🌱 I’m currently interested
+
+
+## 🌱 I’m currently interested in
 
 - UI/UX Design [Figma](https://www.figma.com/)
 - Front-End Web Development
