@@ -12,9 +12,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=6000&vCenter=true&multiline=true&width=1000&height=200&lines=I+believe+that+programming+is+a+form+of+art%2C;+which+encourages+me+to+keep+trying+to+make+my+masterpiece!)](https://git.io/typing-svg)
 Hey, it's me, [Abdelrhman Mohamed](https://www.linkedin.com/in/theshaaer/). I'm currently pursuing a bachelor degree in Information Systems at [Cairo University](https://cu.edu.eg/Home).
 
-I'm a freelance UI/UX designer and web developer with 2 years of experience, specializing in creating user-friendly digital experiences using languages such as C++, JavaScript, and PHP (Laravel), as well as front-end skills like HTML, CSS, Bootstrap, and WordPress. I'm also experienced in soft skills training, creative writing, and voiceover work.
+From Software Development to Design: Creating User-Friendly Designs That Work
 
-Outside of work, I'm passionate about volunteering and have contributed to projects with organizations such as IEEE CUSB, Alt-tab, TEDX, Google DSC, and Anwar Resala team. Let's connect and discuss how I can help bring your digital vision to life.
+As a software developer, I loved figuring out how to solve tricky problems. But I found my true calling in design, where I get to make things that are not only useful but also look great.
+
+I've spent the last few years getting really good at UI/UX design, working with different kinds of Clients to come up with designs that people love to use. I focus on making interfaces that are easy to use and look good, telling stories through brands, and making sure that the whole experience is enjoyable for the user.
+
+Switching from software development to design has shown me how important it is to work together, keep improving, and really understand what people need. I believe that good design isn't just about looking good—it's about making life better for people.
+
+If you need a designer who's all about using tech skills to make creative designs, I'm your person. Let's chat and make something awesome!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheShaaer&show_icons=true&locale=en" alt="TheShaaer" /></p>
 
