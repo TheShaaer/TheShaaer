@@ -38,7 +38,8 @@ If you need a designer who's all about using tech skills to make creative design
 
 ## 🌱 I’m currently learning
 
-- Big Data
+- XR Development
+- Unity Development
 - Data Analytics
 
 ## 👨🏻‍💻 Projects I made
